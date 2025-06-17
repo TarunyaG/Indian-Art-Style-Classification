@@ -1,5 +1,3 @@
-# Indian-Art-Style-Classification
-
 # 🎨 Indian Folk Art Classifier using EfficientNet and Gradio
 
 This project is a deep learning-based image classifier designed to recognize traditional Indian folk art styles. The model uses **EfficientNet** for feature extraction and is deployed using **Gradio** to create a user-friendly web interface.
